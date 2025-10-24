@@ -5,7 +5,7 @@ Thank you for considering contributing to Viaduct! We’re glad you’re here.
 Following these guidelines helps to communicate that you respect the time of the developers managing and developing this open source project. In return, they should reciprocate that respect in addressing your issue, assessing changes, and helping you finalize your pull requests.
 
 Viaduct is an open source project, and we love to receive contributions from our community — you! There are many ways to contribute, from writing tutorials or blog posts, improving the documentation, submitting bug reports and feature requests or writing code which can be incorporated into Viaduct itself.
-
+ 
 Please use the discussion board for support questions.
 
 # Ground Rules
